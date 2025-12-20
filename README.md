@@ -9,6 +9,8 @@ O projeto completo com explicações, códigos e gráficos está disponível no 
 
 Basta analisar e validar o arquivo em sequência.
 
+Caso não consiga visualizar o .ipynb, na raiz do projeto está disponivel a versão em html **[(HTML_MVP.html)](HTML_MVP.html)**
+
 ---
 
 ## Resumo
