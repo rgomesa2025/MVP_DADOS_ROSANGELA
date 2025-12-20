@@ -11,6 +11,10 @@ Basta analisar e validar o arquivo em sequência.
 
 Caso não consiga visualizar o .ipynb, na raiz do projeto está disponivel a versão em html **[(HTML_MVP.html)](HTML_MVP.html)**
 
+As imagens utilizadas estão no caminho **[(./images/)](./images/)**
+
+O output encontra-se no caminho **[(./databricks/)](./databricks/)** 
+
 ---
 
 ## Resumo
