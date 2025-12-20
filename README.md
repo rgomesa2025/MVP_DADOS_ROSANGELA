@@ -9,6 +9,8 @@ O projeto completo com explicações, códigos e gráficos está disponível no 
 
 Basta analisar e validar o arquivo em sequência.
 
+Se for necessário, clone este repositório pela url https://github.com/rgomesa2025/MVP_DADOS_ROSANGELA.git na sua máquina local.
+
 Caso não consiga visualizar o .ipynb, na raiz do projeto está disponivel a versão em html **[(HTML_MVP.html)](HTML_MVP.html)**
 
 As imagens utilizadas estão no caminho **[(./images/)](./images/)**
